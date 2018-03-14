@@ -8,6 +8,8 @@ def countdown():
     
     timeLeft = int(input("> "))
     
+    print("Starting countdown...")
+    
     while timeLeft > 0:
         print(timeLeft, end='')
         time.sleep(1)
