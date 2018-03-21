@@ -1,4 +1,4 @@
-#! python3
+#!/usr/bin/env python3
 # countdown.py - get user defined timeframe and count down
 
 import time, subprocess
